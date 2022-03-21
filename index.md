@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎创建你的BSC智能合约
 
 You can use the [editor on GitHub](https://github.com/JamesBSC2022/bsc/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
